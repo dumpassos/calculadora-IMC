@@ -8,7 +8,7 @@ Projeto "Calculadora de IMC" feito em React/NextJs (com Typescript + Tailwind CS
 ### Para ligar o servidor
 - `npm run start`
 
-Com o servidor ligado clique em  [http://localhost:3000](http://localhost:3000) para acessar a tabela.
+Com o servidor ligado clique em  [http://localhost:3000](http://localhost:3000) para acessar a calculadora de IMC.
 
 
 <img src="./src/assets/IMC1.jpg" alt="Imagem do Projeto">
